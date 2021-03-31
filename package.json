@@ -1,0 +1,23 @@
+{
+    "name": "turbo",
+    "displayName": "Turbo",
+    "description": "Turbo Theme",
+    "publisher": "kliucn",
+    "version": "0.1.0",
+    "repository" : "",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Turbo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Turbo-color-theme.json"
+            }
+        ]
+    }
+}
