@@ -2,7 +2,7 @@
 	"type": "dark",
 	"name": "Turbo",
 	"colors": {
-		"editor.background": "#000044",
+		"editor.background": "#000058",
 		"editorCursor.foreground": "#F8F8F0",
 		"editor.foreground": "#FFFF55",
 		"editorWhitespace.foreground": "#3B3A32",
